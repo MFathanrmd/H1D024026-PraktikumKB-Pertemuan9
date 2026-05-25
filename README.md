@@ -4,7 +4,7 @@ Repository ini berisi implementasi **Algoritma Genetika (Genetic Algorithm - GA)
 
 ---
 
-## 👤 Identitas Mahasiswa
+## Identitas Mahasiswa
 
 *   **Nama:** Muhammad Fathan Ramdani
 *   **NIM:** H1D024026
@@ -13,7 +13,7 @@ Repository ini berisi implementasi **Algoritma Genetika (Genetic Algorithm - GA)
 
 ---
 
-## 📖 Deskripsi Masalah (Knapsack Problem)
+## Deskripsi Masalah (Knapsack Problem)
 
 Knapsack Problem adalah masalah optimasi di mana kita harus memilih kombinasi barang yang akan dimasukkan ke dalam wadah (tas/knapsack) dengan kapasitas maksimal tertentu. Setiap barang memiliki nilai (*value/price*) dan berat (*weight*). Tujuannya adalah untuk **memaksimalkan total nilai barang** yang dibawa tanpa melebihi **kapasitas maksimum tas**.
 
@@ -27,7 +27,7 @@ Pada praktikum ini, permasalahan diselesaikan menggunakan **Algoritma Genetika (
 
 ---
 
-## 📂 Struktur Proyek
+## Struktur Proyek
 
 Seluruh kode program diletakkan dalam direktori [`Algoritma Genetika/`](./Algoritma%20Genetika) yang terdiri dari modul-modul berikut:
 
@@ -42,7 +42,7 @@ Seluruh kode program diletakkan dalam direktori [`Algoritma Genetika/`](./Algori
 
 ---
 
-## ⚙️ Parameter Algoritma Genetika (`main.py`)
+## Parameter Algoritma Genetika (`main.py`)
 
 Simulasi pada `main.py` menggunakan konfigurasi parameter default sebagai berikut:
 *   **Jumlah Generasi:** 50
@@ -66,7 +66,7 @@ Simulasi pada `main.py` menggunakan konfigurasi parameter default sebagai beriku
 
 ---
 
-## 🚀 Cara Menjalankan Kode
+## Cara Menjalankan Kode
 
 1.  Pastikan Anda telah menginstal pustaka yang diperlukan (`matplotlib` dan `numpy`):
     ```bash
@@ -83,7 +83,7 @@ Simulasi pada `main.py` menggunakan konfigurasi parameter default sebagai beriku
 
 ---
 
-## 📊 Output Grafik & Hasil Evolusi
+## Output Grafik & Hasil Evolusi
 
 Setelah program `main.py` selesai dijalankan:
 1.  Akan muncul jendela grafik interaktif `matplotlib` yang menunjukkan:
